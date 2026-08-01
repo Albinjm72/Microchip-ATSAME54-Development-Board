@@ -1,0 +1,10 @@
+*.lck
+*-backups/
+*.tmp
+_saved-*
+
+# Gerber & generated build archives
+*.zip
+gerber_to_order/
+production/backups/
+production/*.zip
